@@ -234,5 +234,3 @@ pyinstaller --onefile --windowed --icon=favicon.ico --name "PoE Watcher" poe_wat
 
 
 ---
-
-**Made with ❤️ for the Path of Exile community**
